@@ -1,2 +1,4 @@
-# instagram_testing
-First commit with valid functional login on instagram
+#Muhammad Yazid
+QA Engineer - Automation Testing
+
+Learning cypress from cypress.io for testing of instagram.com
