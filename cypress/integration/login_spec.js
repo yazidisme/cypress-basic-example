@@ -44,8 +44,8 @@ describe('instagram login', function(){
         //Click and is that element not in the DOM after the click
         .click().and('not.exist')
 
-        //Find an visible element with _52bc8 _rga4h div tag class that containing 'Notifications' text
-        cy.get('div._52bc8._rga4h')
+        //Find an visible element with _dzwdj _rga4h div tag class that containing 'Notifications' text
+        cy.get('div._dzwdj._rga4h')
         .should('be.visible')
         .and('contain', 'Notifications')
     })
